@@ -24,7 +24,7 @@ const AUDIO_DATA = process.env.AUDIO_DATA || "X BOT MD;ASWIN SPARKY;https://i.im
 const STICKER_DATA = process.env.STICKER_DATA || "X BOT MD;ASWIN SPARKY";
 const WORK_TYPE = process.env.WORK_TYPE || 'public';
 const DATABASE_URL = process.env.DATABASE_URL || "./lib/database.db";
-const HEROKU_APP_NAME = process.env.HEROKU_APP_NAME || "";
+const HEROKU_APP_NAME = process.env.HEROKU_APP_NAME || "maxtech";
 const HEROKU_API_KEY = process.env.HEROKU_API_KEY || "";
 const KOYEB_API_KEY = process.env.KOYEB_API_KEY || "";
 
@@ -45,7 +45,7 @@ module.exports = {
   HANDLERS,
   SUDO,
   WORK_TYPE,
-  SESSION_ID,
+  SESSION_ID,A-S-W-I-N-S-P-A-R-K-Y:1eda7768d0cde89cf303e5aeefb72a42
   STICKER_DATA,
   BOT_INFO,
   AUDIO_DATA,
